@@ -1,5 +1,8 @@
 # 강남구 ‘모범 음식점’ 고객 만족도 분석
 - 제1회 강남구 공공데이터 활용·분석 아이디어 공모전 (3인 팀 프로젝트)
+- 스킬셋
+  - **`Python`**, **`Jupyter Notebook`**, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `requests`
+  - **`Notion`**, **`GitHub`**, **`Jira`**
 
 <br>
 
