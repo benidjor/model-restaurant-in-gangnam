@@ -93,8 +93,7 @@
  - 참고 논문
     - [군집분석을 이용한 제주도 지역별 음식점 특성 분석: 네이버 플레이스 키워드 리뷰 중심으로](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002908940)
     - [온라인 리뷰가 음식점 순위에 미치는 영향에 대한 분석](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003054633)
-    - [맛집 리뷰 정보의 특징에 따른 온라인 이용자 반응 분석 : 의견선도력의 조절효과를 중심](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01973412)
-으로 
+    - [맛집 리뷰 정보의 특징에 따른 온라인 이용자 반응 분석 : 의견선도력의 조절효과를 중심으로](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01973412)
     - [음식점의 SNS후기 글의 동의성이 동질성 및 오프라인 재 구전의도와 방문의도에 미치는 영향](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10571384)
  - 뉴스 기사
     - [강남구, 음식점 시설 개선 식품진흥기금 6억 융자 지원](https://view.asiae.co.kr/article/2024020707402087661)
